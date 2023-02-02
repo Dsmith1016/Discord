@@ -53,7 +53,7 @@ main h1{
 }
 
 main p{
-    font-size: 23px;
+    font-size: 20px;
     text-align: center;
     line-height: 30px;
 }
@@ -62,23 +62,23 @@ main p{
     background-color: #ffffff;
     font-size: 20px;
     border-radius: 20px;
-    padding: 12px 15px;
+    padding: 15px 38px 15px 38px;
 }
 .browser {
     background-color: #000000;
     color: #ffffff;
     font-size: 20px;
     border-radius: 20px;
-    padding: 12px 15px;
+    padding: 15px 18px 15px 18px;
 }
 .buttons{
-    padding: 10px 10px 10px 170px;
+    padding: 20px 10px 10px 170px;
 }
 .button1{
     display: inline-block;
 }
 .button2{
     display: inline-block;
-    padding: 0px 0px 0px 70px;
+    padding: 0px 0px 0px 20px;
 
 }
