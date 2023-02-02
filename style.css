@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    border: 1px solid red;
+
+
+}
+nav{
+    background: #5865f2;
+    height: 80px;
+}
+
+label.logo{
+    display: inline-block;
+    color: white;
+    font-size: 35px;
+    font-weight: 700px; 
+    line-height: 80px;
+    padding: 0px 150px 0px 250px;
+    
+}
+nav ul{
+    display: inline-block;
+    padding: 0px 160px 0px 0px;
+}
+nav ul li{
+    display: inline-block;
+}
+nav ul li a{
+    color: #ffffff;
+    font-size: 18px;
+    padding: 0px 30px 0px 0px;
+}
+.open {
+    background-color: #ffffff;
+    border-radius: 20px;
+    padding: 12px 15px;
+}
+
+main{
+    background: #5865f2;
+    height: 550px;
+    color: #ffffff;
+    padding: 80px 350px 50px 400px;
+}
+
+main h1{
+    font-size: 60px;
+    padding: 30px 50px 40px 150px;
+}
+
+main p{
+    font-size: 23px;
+    text-align: center;
+    line-height: 30px;
+}
+
+.download {
+    background-color: #ffffff;
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 12px 15px;
+}
+.browser {
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 20px;
+    border-radius: 20px;
+    padding: 12px 15px;
+}
+.buttons{
+    padding: 10px 10px 10px 170px;
+}
+.button1{
+    display: inline-block;
+}
+.button2{
+    display: inline-block;
+    padding: 0px 0px 0px 70px;
+
+}
