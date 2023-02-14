@@ -5,14 +5,11 @@
     list-style: none;
     box-sizing: border-box;
     outline: 1px solid red;
-
-
 }
 nav{
     background: #5865f2;
     height: 80px;
 }
-
 label.logo{
     display: inline-block;
     color: white;
@@ -20,7 +17,6 @@ label.logo{
     font-weight: 700px; 
     line-height: 80px;
     padding: 0px 150px 0px 250px;
-    
 }
 nav ul{
     display: inline-block;
@@ -39,19 +35,16 @@ nav ul li a{
     border-radius: 20px;
     padding: 12px 15px;
 }
-
 main{
     background: #5865f2;
     height: 550px;
     color: #ffffff;
     padding: 80px 350px 50px 400px;
 }
-
 main h1{
     font-size: 60px;
     padding: 30px 50px 40px 150px;
 }
-
 main p{
     font-size: 20px;
     text-align: center;
@@ -59,7 +52,6 @@ main p{
     max-width: 73%;
     margin: 0px 0px 0px 100px;
 }
-
 .download {
     background-color: #ffffff;
     font-size: 20px;
@@ -91,25 +83,14 @@ study-group img{
     max-width: 40%;
     margin: 120px 0px 0px 285px;
 }
-
-.study-group-img{
-display: inline-block;
-
-
-}
 .study-group-content{
     display: inline-block;
     vertical-align: top;
    max-width: 22%;
     margin: 180px 0px 0px 120px;
-
-
-
 }
 study-group h2{
     font-size: 50px;
-
-    
 }
 study-group p{
     font-size: 22px;
@@ -125,25 +106,14 @@ just-chillin img{
     max-width: 40%;
     margin: 120px 0px 0px 90px;
 }
-
-.just-chillin-img{
-display: inline-block;
-
-
-}
 .just-chillin-content{
     display: inline-block;
     vertical-align: top;
    max-width: 22%;
     margin: 180px 0px 0px 320px;
-
-
-
 }
 just-chillin h2{
     font-size: 50px;
-
-    
 }
 just-chillin p{
     font-size: 22px;
@@ -158,25 +128,14 @@ coach img{
     max-width: 40%;
     margin: 120px 0px 0px 285px;
 }
-
-.coach-img{
-display: inline-block;
-
-
-}
 .coach-content{
     display: inline-block;
     vertical-align: top;
    max-width: 24%;
     margin: 180px 0px 0px 120px;
-
-
-
 }
 coach h2{
     font-size: 50px;
-
-    
 }
 coach p{
     font-size: 22px;
@@ -192,26 +151,15 @@ video-call img{
     max-width: 100%;
     margin: 0px 0px 0px 400px;
 }
-
-.video-call-img{
-
-
-
-}
 .video-call-content{
 
     vertical-align: top;
    max-width: 60%;
     margin: 180px 0px 0px 320px;
-
-
-
 }
 video-call h2{
     font-size: 50px;
     text-align: center;
-
-    
 }
 video-call p{
     text-align: center;
