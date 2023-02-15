@@ -75,11 +75,11 @@ main p{
     display: inline-block;
     padding: 0px 0px 0px 20px;
 }
-study-group{
+.study-group{
     display: inline-block;
     margin: 0px 0px 120px 0px;
 }
-study-group img{
+.study-group img{
     max-width: 40%;
     margin: 120px 0px 0px 285px;
 }
@@ -89,20 +89,20 @@ study-group img{
    max-width: 22%;
     margin: 180px 0px 0px 120px;
 }
-study-group h2{
+.study-group h2{
     font-size: 50px;
 }
-study-group p{
+.study-group p{
     font-size: 22px;
     margin: 30px 0px 0px 0px;
     line-height: 30px;
 }
-just-chillin{
+.just-chillin{
     display: inline-block;
     background-color: rgb(246,246,246);
     padding: 0px 0px 95px 0px;
 }
-just-chillin img{
+.just-chillin img{
     max-width: 40%;
     margin: 120px 0px 0px 90px;
 }
@@ -112,19 +112,19 @@ just-chillin img{
    max-width: 22%;
     margin: 180px 0px 0px 320px;
 }
-just-chillin h2{
+.just-chillin h2{
     font-size: 50px;
 }
-just-chillin p{
+.just-chillin p{
     font-size: 22px;
     margin: 30px 0px 0px 0px;
     line-height: 30px;
 }
-coach{
+.coach{
     display: inline-block;
     margin: 0px 0px 120px 0px;
 }
-coach img{
+.coach img{
     max-width: 40%;
     margin: 120px 0px 0px 285px;
 }
@@ -134,20 +134,20 @@ coach img{
    max-width: 24%;
     margin: 180px 0px 0px 120px;
 }
-coach h2{
+.coach h2{
     font-size: 50px;
 }
-coach p{
+.coach p{
     font-size: 22px;
     margin: 30px 0px 0px 0px;
     line-height: 30px;
 }
-video-call{
+.video-call{
     display: inline-block;
     background-color: rgb(246,246,246);
     padding: 0px 0px 95px 0px;
 }
-video-call img{
+.video-call img{
     max-width: 100%;
     margin: 0px 0px 0px 400px;
 }
@@ -157,11 +157,11 @@ video-call img{
    max-width: 60%;
     margin: 180px 0px 0px 320px;
 }
-video-call h2{
+.video-call h2{
     font-size: 50px;
     text-align: center;
 }
-video-call p{
+.video-call p{
     text-align: center;
     font-size: 22px;
     margin: 30px 0px 0px 0px;
